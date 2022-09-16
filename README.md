@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tian Qin, I am currently a graduate student in University of Maryland, College Park, I study Business Analytics.  
+My name is Tian Qin, I am currently a graduate student in University of Maryland, College Park, I study Business Analytics right now.  
 I am also a Triton:man_student: from UC San Diego, Earl Warren College and studied Applied Mathematics.
 
 - 🔭 I’m currently seeking the position on Data Scientist, Data Engineer and Data Analyst.
