@@ -7,7 +7,7 @@ I am also a Triton:man_student: from UC San Diego, Earl Warren College and studi
 - 🌱 Here is the link of my LinkedIn profile :point_right: https://www.linkedin.com/in/tian-qin-b69021197/
 - 💬 I am so glad if you can make a connection with me!
 - 📫 My personal email is: qintian1215@yahoo.com
-- 😄 About me: I am an international student from China, I have been living in United States for 6 years.
+- 😄 About me: I am an international student from China, I have been living in United States for 7 years.
 - ⚡ Fun fact: I am a senior video game player:video_game:.   
 - :cactus: You can watch my projects in my repositories here, and I will upload more previous or new projects later on.  
 - :desktop_computer: My Power Tool:  
