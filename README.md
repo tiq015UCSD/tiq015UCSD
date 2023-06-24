@@ -3,7 +3,7 @@
 My name is Tian Qin, I am currently a graduate student in University of Maryland, College Park, I study Business Analytics right now.  
 I am also a Triton:man_student: from UC San Diego, Earl Warren College and studied Applied Mathematics.
 
-- 🔭 I’m currently seeking the position on Data Scientist, Data Engineer and Data Analyst.
+- 🔭 I’m currently seeking the position on Data Scientist, Data Analyst and Business Analyst.
 - 🌱 Here is the link of my LinkedIn profile :point_right: https://www.linkedin.com/in/tian-qin-b69021197/
 - 💬 I am so glad if you can make a connection with me!
 - 📫 My personal email is: qintian1215@yahoo.com
